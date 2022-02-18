@@ -1,10 +1,10 @@
-# MISTswap
+# MintSwap
 
-https://mistswap.fi
+https://mintswap.cash
 
 ## Deployed Contracts
 
-https://github.com/mistswapdex/mistswap-sdk/blob/master/src/constants/addresses.ts
+https://github.com/prsstech/mistswap-sdk/blob/master/src/constants/addresses.ts
 
 ## Docs
 
